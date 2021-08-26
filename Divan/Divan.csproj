@@ -217,6 +217,8 @@
     <Content Include="Global.asax" />
     <Content Include="Services.aspx" />
     <Content Include="Site.Master" />
+    <Content Include="Styles\AboutUs.css" />
+    <Content Include="Styles\Contact.css" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
