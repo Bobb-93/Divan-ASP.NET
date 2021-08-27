@@ -1,8 +1,8 @@
 ﻿<%@ Page Title="Products" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Products.aspx.cs" Inherits="Divan.Products" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <link rel="stylesheet" runat="server" href="/Styles/Main.css" />
-    <link rel="stylesheet" runat="server" href="/Styles/Products.css" />
     <link rel="stylesheet" runat="server" href="/Styles/Pages.css" />
+    <link rel="stylesheet" runat="server" href="/Styles/Products.css" />
     <h1><%: Title %></h1>
     <nav id="productsLists">
         <ul>
