@@ -2,6 +2,8 @@
 
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+    <link rel="stylesheet" runat="server" href="/Styles/Main.css" />
+    <link rel="stylesheet" runat="server" href="/Styles/Pages.css" />
     <link rel="stylesheet" runat="server" href="/Styles/Contact.css" />
     <h1><%: Title %></h1>
  

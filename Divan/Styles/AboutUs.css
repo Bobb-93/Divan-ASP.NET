@@ -1,4 +1,9 @@
-﻿div{
+﻿main{
+    margin-top: 1em;
+    /* border: 5px solid #f00; */
+}
+
+div{
     display: inline-block;
     font-family: LRT Oksana, sans-serif;
 }

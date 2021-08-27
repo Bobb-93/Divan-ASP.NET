@@ -1,6 +1,8 @@
 ﻿<%@ Page Title="Services" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Services.aspx.cs" Inherits="Divan.Services" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+    <link rel="stylesheet" runat="server" href="/Styles/Main.css" />
     <link rel="stylesheet" runat="server" href="/Styles/Services.css" />
+    <link rel="stylesheet" runat="server" href="/Styles/Pages.css" />
     <h1><%: Title %></h1>
     <p>We are proud to assure our clients that here at Divan we offer the whole package of services related to any Interior Design project.<br> Wether you want us to help you design your own pool, or do the remodelling and designing of your new home or office space<br> we will be there for you to deliver. Our services consist of the following:</p>
         <div id="lists-of-services">

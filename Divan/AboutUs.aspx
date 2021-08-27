@@ -1,6 +1,8 @@
 ﻿<%@ Page Title="About Us" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="AboutUs.aspx.cs" Inherits="Divan.About" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+    <link rel="stylesheet" runat="server" href="/Styles/Main.css" />
+    <link rel="stylesheet" runat="server" href="/Styles/Pages.css" />
     <link rel="stylesheet" runat="server" href="/Styles/AboutUs.css" />
     <h1><%: Title %></h1>
     <div id="pia">
