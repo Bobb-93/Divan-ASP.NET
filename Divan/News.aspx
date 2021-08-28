@@ -3,6 +3,7 @@
     <link rel="stylesheet" runat="server" href="/Styles/Main.css" />
     <link rel="stylesheet" runat="server" href="/Styles/News.css" />
     <link rel="stylesheet" runat="server" href="/Styles/Pages.css" />
+
     <h1><%: Title %></h1>
     <main>
         <article id="leftmost">

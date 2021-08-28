@@ -3,6 +3,7 @@
     <link rel="stylesheet" runat="server" href="/Styles/Main.css" />
     <link rel="stylesheet" runat="server" href="/Styles/TypesOfServices.css" />
     <link rel="stylesheet" runat="server" href="/Styles/Pages.css" />
+
     <main>
         <section class="left section-1">
             <img src="../images/furnishing/case-goods.jpg" alt="case-goods">

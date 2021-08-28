@@ -4,7 +4,7 @@
 
 h2{
     position: absolute;
-    top: 0.5em;
+    top: 2.5em;
     left: 26em;
     text-transform: uppercase;
     font-family: LRT Oksana, sans-serif;
@@ -29,13 +29,13 @@ li a{
 }
 
 .bottom-image{
-    top: 26.5em;
+    top: 28.5em;
 }
 
 .arrow{
     position: absolute;
     display: block;
-    top: 12.5em;
+    top: 14.5em;
     z-index: 1000;
     border-style: solid;
     cursor: pointer;
@@ -57,7 +57,7 @@ li a{
     content: "";
     position: absolute;
     display: block;
-    top: -1.5em;
+    top: 0.5em;
     left: 0.25em;
     border-style: solid;
     border-width: 1.5em 1.5em 1.5em 0;
@@ -68,7 +68,7 @@ li a{
     content: "";
     position: absolute;
     display: block;
-    top: -1.5em;
+    top: 0.5em;
     left: -1.75em;
     border-style: solid;
     border-width: 1.5em 0 1.5em 1.5em;
@@ -87,12 +87,12 @@ li a{
 }
 
 #white-washed-floors{
-    top: 16.5em;
+    top: 18.5em;
     left: 16em;
 }
 
 #living-room{
-    top: 21.5em;
+    top: 23.5em;
     left: 16em;
 }
 
@@ -141,19 +141,19 @@ li a{
 }
 
 #bedroom{
-    top: 22em;
+    top: 24em;
     left: 73em;
 }
 
 #pool{
-    top: 16.5em;
+    top: 18.5em;
     left: 73em;
 }
 
 #focused-image{
     display: inline-block;
     position: absolute;
-    top: 3.5em;
+    top: 5.5em;
     left: 22.5em;
     /* border-left: 5em solid #292929;
     border-top: 0.5em solid #292929;

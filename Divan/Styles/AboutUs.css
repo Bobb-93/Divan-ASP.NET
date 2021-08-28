@@ -1,5 +1,6 @@
-﻿main{
-    margin-top: 1em;
+﻿#pia, #marianne, #matthieu, #matz{
+    margin-top: 125px;
+    /*background-color:red;*/
     /* border: 5px solid #f00; */
 }
 

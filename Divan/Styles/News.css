@@ -1,6 +1,6 @@
 ﻿article{
     display: inline-block;
-    margin-top: 1em;
+    margin-top: -5em;
     margin-right: 8%;
     font-family: LRT Oksana, sans-serif;
 }     
@@ -25,9 +25,17 @@ article a{
     color: #000;
 }
 
+article img{
+    height: 310px;
+}
+
 .bottom-heading{
     margin-top: 1em;
 }
+
+/*.top-heading{
+    margin-top: -8em;
+}*/
 
 article:hover{
     opacity: 0.8;

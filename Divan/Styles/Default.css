@@ -1,9 +1,13 @@
-﻿body{          
+﻿*{
+    line-height: 1;
+}
+
+body{          
     background-image: radial-gradient(circle at center, #a8a19f 3px, transparent 0), url("../images/home/modern-scandinavian-home-interior.png");
     /* width: 1245px; */
     background-size: 1em 1em, 100vw 100vh;
     background-repeat: repeat, no-repeat;
-    background-position: 0 0, 0 0;
+    background-position: 0 0, 0 0;   
 }
 
 nav{
@@ -13,6 +17,7 @@ nav{
     width: 10em;  
     height: 22em;
 }
+
 
 nav li{
     text-align: left;

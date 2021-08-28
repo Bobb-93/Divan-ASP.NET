@@ -7,20 +7,34 @@
     <nav>
         <ul>
             <li><a href="#">Home</a></li>
-            <li><a href="pages/news.html">News</a></li>
-            <li><a href="pages/about_us.html">About us</a></li>
-            <li id="services"><a href="pages/services.html">Services</a>
+            <li><a href="News">News</a></li>
+            <li><a href="AboutUs">About us</a></li>
+            <li id="services"><a href="Services">Services</a>
                 <ul>
-                    <li class="box index-box" id="consulting"><a href="pages/consulting.html">Consulting</a></li>
-                    <li class="box index-box" id="furnishing"><a href="pages/furnishing.html">Furnishing</a></li>
-                    <li class="box index-box" id="procurement"><a href="pages/procurement.html">Procurement</a></li>
-                    <li class="box index-box" id="interior-detailing"><a href="pages/interior-detailing.html">Interior Detailing</a></li>
+                    <li class="box index-box" id="consulting"><a href="Consulting">Consulting</a></li>
+                    <li class="box index-box" id="furnishing"><a href="Furnishing">Furnishing</a></li>
+                    <li class="box index-box" id="procurement"><a href="Procurement">Procurement</a></li>
+                    <li class="box index-box" id="interior-detailing"><a href="InteriorDetailing">Interior Detailing</a></li>
                 </ul>
             </li>
-            <li><a href="pages/products.html">Products</a></li>
-            <li><a href="pages/gallery.html">Gallery</a></li>
-            <li><a href="pages/contact.html">Contact</a></li>
+            <li><a href="Products">Products</a></li>
+            <li><a href="Gallery">Gallery</a></li>
+            <li><a href="Contact">Contact</a></li>
         </ul>
     </nav>
+
+    <div id="social-media">
+        <a href="#"><i class="fab fa-facebook-square"></i></a>
+        <a href="#"><i class="fab fa-twitter-square"></i></a>
+        <a href="#"><i class="fab fa-pinterest-square"></i></a>
+        <br>
+        <a href="#"><i class="fab fa-youtube-square"></i></a>
+        <a href="#"><i class="fab fa-google-plus-square"></i></a>
+        <a href="#"><i class="fab fa-instagram-square"></i></a>
+    </div>
+    <div>
+        <div id="discover-more"></div>
+        <div id="down-red-arrow"></div>
+    </div>
 
 </asp:Content>

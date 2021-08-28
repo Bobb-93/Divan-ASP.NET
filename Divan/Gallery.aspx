@@ -3,6 +3,7 @@
     <link rel="stylesheet" runat="server" href="/Styles/Main.css" />
     <link rel="stylesheet" runat="server" href="/Styles/Pages.css" />
     <link rel="stylesheet" runat="server" href="/Styles/Gallery.css" />
+
     <h1><%: Title %></h1>
     <main>        
         <h2 id="image-header">WHITE WASHED FLOOR</h2>
