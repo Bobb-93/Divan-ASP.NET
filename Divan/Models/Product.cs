@@ -8,6 +8,7 @@ namespace Divan.Models
 {
     public class Product
     {
+
         [ScaffoldColumn(false)]
         public int ProductID
         {
@@ -60,5 +61,6 @@ namespace Divan.Models
             get;
             set;
         }
+
     }
 }

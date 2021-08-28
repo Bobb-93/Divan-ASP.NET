@@ -8,6 +8,7 @@ namespace Divan.Models
 {
     public class Category
     {
+
         [ScaffoldColumn(false)]
         public int CategoryID
         {
@@ -34,5 +35,6 @@ namespace Divan.Models
             get;
             set;
         }
+
     }
 }
