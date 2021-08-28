@@ -23,12 +23,12 @@ namespace Divan.Models
             set;
         }
 
-        [Required, StringLength(100), Display(Name = "Manufacturer")]
-        public string ManufacturerName
-        {
-            get;
-            set;
-        }
+        //[Required, StringLength(100), Display(Name = "Manufacturer")]
+        //public string ManufacturerName
+        //{
+        //    get;
+        //    set;
+        //}
 
         [Required, StringLength(10000), Display(Name = "Product Description"), DataType(DataType.MultilineText)]
         public string Description

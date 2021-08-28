@@ -409,7 +409,11 @@
     <Compile Include="InteriorDetailing.aspx.designer.cs">
       <DependentUpon>InteriorDetailing.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Models\Category.cs" />
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\Product.cs" />
+    <Compile Include="Models\ProductContext.cs" />
+    <Compile Include="Models\ProductDatabaseInitializer.cs" />
     <Compile Include="News.aspx.cs">
       <DependentUpon>News.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

@@ -23,7 +23,7 @@ namespace Divan.Models
             set;
         }
 
-        [Display(Name = "Product Description")]
+        [Display(Name = "Category Description")]
         public string Description
         {
             get;
