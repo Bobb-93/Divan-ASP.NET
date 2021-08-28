@@ -2,6 +2,10 @@
     display: inline-block;
 }
 
+h1{
+    top:1.8em;/* do not change*/
+}
+
 h2{
     position: absolute;
     top: 2.5em;
