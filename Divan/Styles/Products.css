@@ -16,7 +16,7 @@ main>div{
 main>h2{
     /* margin-top: 10%; */
     margin-left: 25%;
-    margin-top: 15%;
+    margin-top: 10%;
 
 }
 
@@ -32,7 +32,7 @@ main div img{
 }
 
 .price{
-    padding-top: 6.9em;
+    padding-top: 6em;
 }
 
 .addToCart{
@@ -117,6 +117,11 @@ main div img{
     background-color: #D5454B;
     color: #512727;
 }
+
+#leftDiv{
+    margin-left: 5em;
+}
+
 /* 
 #productsLists>ul>li>ul>li{
     display: block;
