@@ -164,6 +164,10 @@ li a{
     background-color: #292929;
 }
 
+#image-header{
+    visibility:hidden;
+}
+
 #focused-image img{
     height: 334px;
     width: 592px;

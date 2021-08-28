@@ -5,6 +5,7 @@
 address{
     font-family: LRT Oksana, sans-serif;
     font-style: initial;
+    margin-top: 8em;
 }
 
 a{
@@ -15,6 +16,7 @@ a{
 iframe{
     float: left;
     margin: auto 4%;
+    margin-top: 8em;
     height: 350px;
     width: 557px;
 }
