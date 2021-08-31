@@ -83,7 +83,7 @@
             <hr />
             <footer>
                 <%--<p>&copy; <%: DateTime.Now.Year %> - My ASP.NET Application</p>--%>
-                <div id="logo-2"><a href="/Default"><img src="../images/main/logo-2.png" alt="logo"></a></div>
+                <div id="logo-2"><a runat="server" href="/Default"><asp:Image runat="server" ImageUrl="../images/main/logo-2.png" alt="logo" /></a></div>
                 <p>Interior design studio. All rights reserved. Design by Vladimir Todorov. Website written by Boris Yakimov.</p>
             </footer>
         </div>

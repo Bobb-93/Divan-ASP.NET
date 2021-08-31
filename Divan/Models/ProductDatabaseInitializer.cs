@@ -286,12 +286,165 @@ namespace Divan.Models
                 new Product
                 {
                     ProductID = 22,
-                    ProductName = "Low-priced Console Table",
-                    Description = "Console Table for the poor.",
-                    ImagePath="console-table-3.jpg",
-                    UnitPrice = 95.00,
+                    ProductName = "Average-priced Bed",
+                    Description = "Bed for the average person.",
+                    ImagePath="bed-1.jpg",
+                    UnitPrice = 165.00,
                     CategoryID = 8
                 },
+                new Product
+                {
+                    ProductID = 23,
+                    ProductName = "Luxurious Bed",
+                    Description = "Highly comfortable bed.",
+                    ImagePath="bed-2.jpg",
+                    UnitPrice = 285.00,
+                    CategoryID = 8
+                },
+                new Product
+                {
+                    ProductID = 24,
+                    ProductName = "Cheap Bed",
+                    Description = "Low budget bed.",
+                    ImagePath="bed-3.jpg",
+                    UnitPrice = 99.99,
+                    CategoryID = 8
+                },
+                new Product
+                {
+                    ProductID = 25,
+                    ProductName = "High Quality Nightstand",
+                    Description = "High budget Nightstand made from high quality materials.",
+                    ImagePath="nightstand-1.jpg",
+                    UnitPrice = 199.99,
+                    CategoryID = 9
+                },
+                new Product
+                {
+                    ProductID = 26,
+                    ProductName = "Modern Nightstand",
+                    Description = "Modern Nightstand made from good quality materials.",
+                    ImagePath="nightstand-2.jpg",
+                    UnitPrice = 109.99,
+                    CategoryID = 9
+                },
+                new Product
+                {
+                    ProductID = 27,
+                    ProductName = "Low-priced Nightstand",
+                    Description = "Cheap Nightstand from average materials.",
+                    ImagePath="nightstand-3.jpg",
+                    UnitPrice = 59.99,
+                    CategoryID = 9
+                },
+                new Product
+                {
+                    ProductID = 28,
+                    ProductName = "Average-priced Mirror",
+                    Description = "Mirror from good quality materials.",
+                    ImagePath="mirror-1.jpg",
+                    UnitPrice = 109.99,
+                    CategoryID = 10
+                },
+                new Product
+                {
+                    ProductID = 29,
+                    ProductName = "Design Mirror",
+                    Description = "Mirror from high quality materials.",
+                    ImagePath="mirror-2.jpg",
+                    UnitPrice = 199.99,
+                    CategoryID = 10
+                },
+                new Product
+                {
+                    ProductID = 30,
+                    ProductName = "Kitchen Mirror",
+                    Description = "Every day Mirror.",
+                    ImagePath="mirror-3.jpg",
+                    UnitPrice = 49.99,
+                    CategoryID = 10
+                },
+                new Product
+                {
+                    ProductID = 31,
+                    ProductName = "Low-priced Desk",
+                    Description = "Low budget desk.",
+                    ImagePath="desk-1.jpg",
+                    UnitPrice = 49.99,
+                    CategoryID = 11
+                },
+                new Product
+                {
+                    ProductID = 32,
+                    ProductName = "Average-priced Desk",
+                    Description = "Average desk for people with average budget.",
+                    ImagePath="desk-2.jpg",
+                    UnitPrice = 89.99,
+                    CategoryID = 11
+                },
+                new Product
+                {
+                    ProductID = 33,
+                    ProductName = "High-priced Desk",
+                    Description = "High-priced desk for people with high budget.",
+                    ImagePath="desk-3.jpg",
+                    UnitPrice = 159.99,
+                    CategoryID = 11
+                },
+                new Product
+                {
+                    ProductID = 34,
+                    ProductName = "High-priced Storage Cabinet",
+                    Description = "High quality Storage Cabinet from high quality materials.",
+                    ImagePath="storage-cabinet-1.jpg",
+                    UnitPrice = 259.99,
+                    CategoryID = 12
+                },
+                new Product
+                {
+                    ProductID = 35,
+                    ProductName = "Low-priced Storage Cabinet",
+                    Description = "Storage Cabinet from good quality materials.",
+                    ImagePath="storage-cabinet-2.jpg",
+                    UnitPrice = 99.99,
+                    CategoryID = 12
+                },
+                new Product
+                {
+                    ProductID = 36,
+                    ProductName = "Average-priced Storage Cabinet",
+                    Description = "Storage Cabinet from average quality materials.",
+                    ImagePath="storage-cabinet-3.jpg",
+                    UnitPrice = 187.99,
+                    CategoryID = 12
+                },
+                new Product
+                {
+                    ProductID = 37,
+                    ProductName = "Average-priced Bookcase",
+                    Description = "Average Bookcase from average quality materials.",
+                    ImagePath="bookcase-1.jpg",
+                    UnitPrice = 128.99,
+                    CategoryID = 13
+                },
+                new Product
+                {
+                    ProductID = 38,
+                    ProductName = "High quality Bookcase",
+                    Description = "High budget Bookcase from high quality materials.",
+                    ImagePath="bookcase-2.jpg",
+                    UnitPrice = 205.99,
+                    CategoryID = 13
+                },
+                new Product
+                {
+                    ProductID = 39,
+                    ProductName = "Low-priced Bookcase",
+                    Description = "Bookcase from good quality materials.",
+                    ImagePath="bookcase-3.jpg",
+                    UnitPrice = 95.99,
+                    CategoryID = 13
+                }
             };
             return products;
         }
