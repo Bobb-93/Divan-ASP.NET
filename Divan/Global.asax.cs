@@ -21,6 +21,11 @@ namespace Divan
 
             //Initialize the product database
             Database.SetInitializer(new ProductDatabaseInitializer());
+
+            using (var context = new ProductContext())
+            {
+                context.Database.Initialize(force: true);
+            }
         }
     }
 }

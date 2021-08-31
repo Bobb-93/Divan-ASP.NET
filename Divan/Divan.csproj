@@ -186,6 +186,7 @@
     <Content Include="InteriorDetailing.aspx" />
     <Content Include="News.aspx" />
     <Content Include="Procurement.aspx" />
+    <Content Include="ProductDetails.aspx" />
     <Content Include="Products.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -427,6 +428,13 @@
     </Compile>
     <Compile Include="Procurement.aspx.designer.cs">
       <DependentUpon>Procurement.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProductDetails.aspx.cs">
+      <DependentUpon>ProductDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductDetails.aspx.designer.cs">
+      <DependentUpon>ProductDetails.aspx</DependentUpon>
     </Compile>
     <Compile Include="Products.aspx.cs">
       <DependentUpon>Products.aspx</DependentUpon>

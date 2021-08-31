@@ -9,7 +9,7 @@ namespace Divan.Models
     public class ProductContext : DbContext
     {
 
-        public ProductContext() : base("WingtipToys")
+        public ProductContext() : base("Divan")
         {
 
         }

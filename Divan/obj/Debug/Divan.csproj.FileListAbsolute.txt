@@ -61,6 +61,5 @@ D:\ASP_PROJECTS\Divan\Divan\bin\Microsoft.Owin.Security.Google.xml
 D:\ASP_PROJECTS\Divan\Divan\bin\Microsoft.Owin.Security.Twitter.xml
 D:\ASP_PROJECTS\Divan\Divan\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\ASP_PROJECTS\Divan\Divan\bin\Microsoft.Owin.Security.OAuth.xml
-D:\ASP_PROJECTS\Divan\Divan\obj\Debug\Divan.csprojResolveAssemblyReference.cache
 D:\ASP_PROJECTS\Divan\Divan\obj\Debug\Divan.dll
 D:\ASP_PROJECTS\Divan\Divan\obj\Debug\Divan.pdb
